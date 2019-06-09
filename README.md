@@ -23,5 +23,5 @@ function callback(skipedLink) {
     console.log(skipedLink); // will output https://google.com OR null if fail
 }
 
-skiper("http://www.linkbucks.com/ActW0", )
+skiper("http://www.linkbucks.com/ActW0", callback)
 ```
