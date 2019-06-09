@@ -4,12 +4,12 @@ Suport all linkbucks domains and subdomains
 
 ### NPM
 ```bash
-npm i saculbr/linkbucksSkiper
+npm i saculbr/linkbucks-skipper
 ```
 
 ### YARN 
 ```bash
-yarn add saculbr/linkbucksSkiper
+yarn add saculbr/linkbucks-skipper
 ```
 
 ## Example
