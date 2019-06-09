@@ -1,0 +1,23 @@
+{
+  "name": "linkbucksskipper",
+  "version": "1.0.0",
+  "description": "Get the original link",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^1.17.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saculbr/linkbucksSkipper.git"
+  },
+  "author": "Saculbr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saculbr/linkbucksSkipper/issues"
+  },
+  "homepage": "https://github.com/saculbr/linkbucksSkipper#readme"
+}
